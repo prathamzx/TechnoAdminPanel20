@@ -1,1 +1,1 @@
-# TechnoAdminPanel20
+# TechnoWebsite20 AdminPanel
